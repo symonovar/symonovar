@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @symonovar
-- 👀 I’m interested in genome evolution
+- 👀 I’m interested in genome evolution and I’m looking for collaboration on repeats masking
 - 🌱 I’m currently learning Python, R, Linux
 
 <!---
